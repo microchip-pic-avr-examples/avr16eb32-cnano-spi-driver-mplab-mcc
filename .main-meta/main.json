@@ -19,12 +19,12 @@
             }
         ],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-Ex_DFP",
+            "semverRange": "^2.5.176"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": "^5.4.1"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -37,8 +37,8 @@
             }
         },
         "author": "Darshith Madvinkodi Prakash",
-        "peripherals": [],
-        "keywords": [],
+        "peripherals": ["SPI"],
+        "keywords": ["SPI","MCC Melody","Melody","Curiosity Nano","Curiosity"],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
